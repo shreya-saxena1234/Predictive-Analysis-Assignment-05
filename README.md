@@ -26,8 +26,13 @@ Attributes: 15
 ![image](https://user-images.githubusercontent.com/74912353/233192106-48dc15ae-bb68-4afb-9272-0bb3b77b020b.png)
 
 ## Conclusion:
+Best Sample: 5
+
 Best Accuracy: 0.88
+
 Best Kernel: rbf
+
 Best Nu: 0.18
+
 Best Epsilon: 0.69
 
