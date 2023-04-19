@@ -5,8 +5,11 @@
 
 ## Dataset
 Name: EEG Eye State Data Set
+
 Link: https://archive.ics.uci.edu/ml/datasets/EEG+Eye+State
+
 Instances: 14980
+
 Attributes: 15
 
 ## Methodology
