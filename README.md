@@ -3,7 +3,7 @@
 * It is an supervised learning algorithm which is used for Classification as well as Regression problems. 
 * Parameters of SVM such as kernel, C, and gamma can be changed in order to achieve a higher accuracy. This is called as Hyperparameter Tuning.
 
-### Dataset
+### Dataset:
 **Name:** EEG Eye State Data Set
 
 **Link:** https://archive.ics.uci.edu/ml/datasets/EEG+Eye+State
@@ -12,7 +12,7 @@
 
 **Attributes:** 15
 
-### Methodology
+### Methodology:
 1) Import the necessary libraries.
 2) Upload the multi-class dataset from UCI library. 
 3) Divide the data into 70-30 for training and testing with 10 different samples.
