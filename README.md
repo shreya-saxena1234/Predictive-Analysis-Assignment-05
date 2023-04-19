@@ -6,17 +6,18 @@
 ## Dataset
 **Name:** EEG Eye State Data Set
 
-##Link: https://archive.ics.uci.edu/ml/datasets/EEG+Eye+State
+**Link:** https://archive.ics.uci.edu/ml/datasets/EEG+Eye+State
 
-## Instances: 14980
+**Instances:** 14980
 
-## Attributes: 15
+**Attributes:** 15
 
 ## Methodology
-1) Upload the multi-class dataset from UCI library. 
-2) Divide the data into 70-30 for training and testing with 10 different samples.
-3) Optimize SVM for each sample with 1000 iterations.
-4) Report the best parameter with best accuracy and plot convergence graph.
+1) Import the necessary libraries.
+2) Upload the multi-class dataset from UCI library. 
+3) Divide the data into 70-30 for training and testing with 10 different samples.
+4) Optimize SVM for each sample with 1000 iterations.
+5) Report the best parameter with best accuracy and plot convergence graph.
 
 ## Result:
 ![image](https://user-images.githubusercontent.com/74912353/233191838-77d0f613-2464-4514-a366-1e66d5a92f9b.png)
