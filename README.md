@@ -4,13 +4,13 @@
 * Parameters of SVM such as kernel, C, and gamma can be changed in order to achieve a higher accuracy. This is called as Hyperparameter Tuning.
 
 ## Dataset
-Name: EEG Eye State Data Set
+**Name:** EEG Eye State Data Set
 
-Link: https://archive.ics.uci.edu/ml/datasets/EEG+Eye+State
+##Link: https://archive.ics.uci.edu/ml/datasets/EEG+Eye+State
 
-Instances: 14980
+## Instances: 14980
 
-Attributes: 15
+## Attributes: 15
 
 ## Methodology
 1) Upload the multi-class dataset from UCI library. 
